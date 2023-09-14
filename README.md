@@ -1,1 +1,1 @@
-# js-utility
+## Javascript Utility Functions
